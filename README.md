@@ -2,8 +2,7 @@
 
 ## Description
 
-This application allows the user to take notes. The user might have several notes listed. He/she might add new notes and delete any note.
-(Additional functionality: The user can sort the notes in ascending order of their title)
+This is a backend server application that provides CRUD functionality for an ecommerce company.
 
 ## Table of Contents
 
@@ -19,7 +18,7 @@ This application allows the user to take notes. The user might have several note
 
 - [Questions](#questions)
 
-- [Heroku CLI](#heroku)
+- [Walkthrough](#walkthrough)
 
 ## Installation
 
@@ -44,5 +43,5 @@ No test script delivered
 If you have any questions about the repo, open an issue or contact me directly at alt@yahoo.com. 
 You can find more of my work at (https://github.com/altugcakmakci)
 
-## Heroku
-https://caa-notetaker.herokuapp.com/
+## Walkthrough
+The walkthrough video is available at https://watch.screencastify.com/v/VEYHzl7Ii9GdzBY5vC1a
